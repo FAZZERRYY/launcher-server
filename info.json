@@ -1,0 +1,13 @@
+{
+  "gameName": "FAZZERRY CRMP",
+  "userService": "",
+  "cdn": "",
+  "servers": [
+    {
+      "id": 1,
+      "name": "Москва",
+      "ip": "80.242.59.112",
+      "port": 3177
+    }
+  ]
+}
